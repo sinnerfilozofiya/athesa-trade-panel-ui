@@ -1,0 +1,2 @@
+import{d as t,c as n,b as e,w as _,$ as c,o as a,bf as s,g as r}from"./index-8c4b8b6b.js";const i={class:"container"},d=t({__name:"LoginView",setup(p){return(l,f)=>{const o=c;return a(),n("div",i,[e(o,{header:"Freqtrade bot Login"},{default:_(()=>[e(s,{ref:"loginForm"},null,512)]),_:1})])}}});const m=r(d,[["__scopeId","data-v-44739c0c"]]);export{m as default};
+//# sourceMappingURL=LoginView-e265ea0d.js.map
